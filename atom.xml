@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://endofheat.github.io</id>
+    <title>- A K I R A -</title>
+    <updated>2024-04-04T14:31:05.774Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://endofheat.github.io"/>
+    <link rel="self" href="https://endofheat.github.io/atom.xml"/>
+    <subtitle>Let&apos;s have some fun</subtitle>
+    <logo>https://endofheat.github.io/images/avatar.png</logo>
+    <icon>https://endofheat.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, - A K I R A -</rights>
+    <entry>
+        <title type="html"><![CDATA[Why I made Go Fridge and the problems that I met]]></title>
+        <id>https://endofheat.github.io/Why I made Go Fridge and the problems that I met/</id>
+        <link href="https://endofheat.github.io/Why I made Go Fridge and the problems that I met/">
+        </link>
+        <updated>2024-04-04T02:34:45.000Z</updated>
+    </entry>
+</feed>
